@@ -1,3 +1,5 @@
+package question5;
+
 public class Prime {
 public boolean isPrime(int num) {
 
